@@ -1,1 +1,1 @@
-update func
+update test set field = 102;
